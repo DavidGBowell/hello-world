@@ -1,2 +1,3 @@
 # hello-world
-Just m y test
+Just my test
+Corrected spelling :)
